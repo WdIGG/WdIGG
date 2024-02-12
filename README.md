@@ -18,7 +18,6 @@
 ###
   ![WdIGG GitHub Stats](https://github-readme-stats.vercel.app/api?username=wdigg&show_icons=true&theme=tokyonight)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdigg&show_icons=true&theme=tokyonight)](https://github.com/wdigg/github-readme-stats)
-  <img src="https://media1.tenor.com/images/d0b09f86fd992f3d77dd046a4e39a761/tenor.gif?itemid=9027702" height="150" width="200"/>
 
 ###
 
@@ -30,7 +29,11 @@
 
 ###
 
-<h5 align="left">-----</h5>
+
+
+###
+
+<h3 align="left">🔥 Skills</h3>
 
 ###
 
