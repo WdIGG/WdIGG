@@ -30,10 +30,6 @@
 
 ###
 
-<img src="https://imgflip.com/gif/8fkz33" height="" width="">
-
-###
-
 <h3 align="left">🔥 Skills</h3>
 
 ###
