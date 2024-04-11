@@ -73,7 +73,7 @@
 ###
 
 <div align="center"> 
-  ![snake animation](https://github.com/WdIGG/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/WdIGG/WdIGG/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 ###
