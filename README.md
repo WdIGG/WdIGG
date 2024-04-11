@@ -75,9 +75,7 @@
 <div align="left">
 </div>
 
-<!---  Snake Game
 <div align="center"> 
-  <img src="https://github.com/1999AZZAR/blob/main/resources/img/grid-snake.svg" 
-    alt="snake" /></a> 
-</div>--->
+  ![snake animation](https://github.com/wdigg/wdigg/blob/output/github-contribution-grid-snake2.svg)
+</div>
 ###
