@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Opa! Tudo bom? Meu nome é Welliton e eu sou um estudante de programação da Etec/Fatec!</h4>
+<h4 align="left">Opa! Tudo bom? Meu nome é Welliton e eu sou um amante de programação!</h4>
 
 ###
 
